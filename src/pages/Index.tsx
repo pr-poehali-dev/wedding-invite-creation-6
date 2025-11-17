@@ -58,13 +58,11 @@ const Index = () => {
             alt="Александр и Екатерина"
             className="w-full h-full object-cover opacity-90"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-white/30 to-white"></div>
+          <div className="absolute inset-0 from-transparent via-white/30 to-white bg-transparent"></div>
         </div>
 
         <div className="relative z-10 text-center px-4 animate-fade-in">
-          <h1 className="text-7xl md:text-9xl font-light text-primary mb-4">
-            Александр & Екатерина
-          </h1>
+          <h1 className="text-7xl md:text-9xl font-light text-primary mb-4">Дмитрий & Татьяна</h1>
           <p className="text-2xl md:text-3xl text-muted-foreground mb-12">
             Приглашаем вас разделить с нами самый счастливый день
           </p>
